@@ -1,3 +1,4 @@
+//program to impliment strlen() function using c
 #include<stdio.h>
 #include<string.h>
 void main()
